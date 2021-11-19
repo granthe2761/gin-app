@@ -6,8 +6,8 @@ import(
 	"os"
 	"github.com/gin-gonic/gin"
 	"time"
+	"net/http"
 )
-
 func UploadImageHandler(c *gin.Context){
 	log.Println("image posted")
 	//图片名处理

@@ -1,7 +1,7 @@
 package main
 
 import(
-	"fmt"
+	//"fmt"
 	"net/http"
 	"github.com/gin-gonic/gin"
 	"github.com/granthe2761/gin-app/handlers"
